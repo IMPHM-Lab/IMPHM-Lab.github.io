@@ -259,6 +259,26 @@ h3.article-title a:hover, a:hover {
   margins-top: 6rem;
 }
 
+
+
+.home-resource-section {
+  img {
+    height: 256px;
+  }
+}
+
+
+
+.home-collaborator-section {
+  img {
+    height: 70px;
+  }
+}
+
+
+
+
+
 //手机
 @media (max-width: 478px) {
   .universal-wrapper {
