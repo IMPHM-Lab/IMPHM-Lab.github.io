@@ -23,6 +23,69 @@ newsBlock:
     view: list_news
     columns: '1' 
          
+         
+collaborators:
+
+  - image: image/collaborator/dx1.png
+    title:  
+
+  - image: image/collaborator/dx2.png
+    title:  
+
+#  - image: image/collaborator/dx1.png
+#    title:  
+#
+#  - image: image/collaborator/dx2.png
+#    title:  
+#
+#
+#
+#
+#  - image: image/collaborator/dx1.png
+#    title:  
+#
+#  - image: image/collaborator/dx2.png
+#    title:  
+#
+#  - image: image/collaborator/dx1.png
+#    title:  
+#
+#  - image: image/collaborator/dx2.png
+#    title:  
+#
+#
+#
+#
+#  - image: image/collaborator/dx1.png
+#    title:  
+#
+#  - image: image/collaborator/dx2.png
+#    title:  
+#
+#  - image: image/collaborator/dx1.png
+#    title:  
+#
+#  - image: image/collaborator/dx2.png
+#    title:  
+#
+#
+#
+#
+#  - image: image/collaborator/dx1.png
+#    title:  
+#
+#  - image: image/collaborator/dx2.png
+#    title:  
+#
+#  - image: image/collaborator/dx1.png
+#    title:  
+#
+#  - image: image/collaborator/dx2.png
+#    title:  
+
+
+
+
 
  
 

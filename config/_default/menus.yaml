@@ -26,9 +26,13 @@ main:
     url: event
     weight: 50
 
-  - name: Agents
-    url: agents
+  - name: Courses
+    url: courses
     weight: 60
+
+#  - name: Agents
+#    url: agents
+#    weight: 60
 
   - name: Join us
     url: joinus
