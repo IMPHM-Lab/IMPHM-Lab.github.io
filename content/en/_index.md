@@ -32,8 +32,8 @@ collaborators:
   - image: image/collaborator/dx2.png
     title:  
 
-  - image: image/collaborator/dx3.png
-    title:  
+#  - image: image/collaborator/dx3.png
+#    title:  
 
 #  - image: image/collaborator/dx2.png
 #    title:  
